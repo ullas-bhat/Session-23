@@ -18,7 +18,9 @@ Lectures were also delivered by the DSFP leadership team:
 
 "Now Look to the future and claim the prize ahead."
 
--- Jacqueline M. Hughes-Oliver 
+~ Jacqueline M. Hughes-Oliver 
+
+-- 
 
 Three orientation lectures are provided asynchronously, these are:
 - A Brief Introduction to git/GitHub; B Scott 
@@ -38,7 +40,9 @@ Sunday, May 18, 2025
 
 "When the Facts Change, I change my mind. What do you do, sir?"
 
--- John Meynard Keynes (attributed)
+~ John Meynard Keynes (attributed)
+
+-- 
 
 Monday May 19, 2025
 
@@ -60,7 +64,9 @@ Monday May 19, 2025
 
 "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories."
 
--- Sir Arthur Conan Doyle 
+~ Sir Arthur Conan Doyle 
+
+-- 
 
 Tuesday, May 20, 2025
 * 09:00 AM - 10:30 AM o [Problem](Day2/) | [Solution](Day2/) Metroplis Hasting Sampling; A Miller
@@ -76,7 +82,9 @@ Tuesday, May 20, 2025
 
 "A paradox is simply an error out of control; i.e. one that has trapped so many unwary minds that it has gone public, become institutionalized in our literature, and taught as truth."
 
--- ET Jaynes
+~ ET Jaynes
+
+-- 
 
 Wednesday, May 21, 2025
 * 09:00 AM – 09:45 AM o  [Nested, Umbrella, and Hamiltonian Sampling](Day2/); G Gilbert
@@ -88,7 +96,9 @@ Wednesday, May 21, 2025
 
 "All knowledgge is, in final analysis, history. All sciences are, in the abstract, mathematics. All judgements are, in their rationale, statistics."
 
--- C.R. Rao 
+~ C.R. Rao 
+
+-- 
 
 Thursday, May 23, 2025 
 * 09:00 AM – 10:00 AM o [Probabilistic Graphical Models](Day4/); C Schafer
@@ -104,7 +114,9 @@ Thursday, May 23, 2025
 
 "It matters little who first arrives at an idea, rather what is significant is how far that idea can go."
 
---  Sophie Germain 
+~ Sophie Germain 
+
+--  
 
 Friday, May 24, 2025
 * 9:00 AM - 9:45 AM o [Intractable Posteriors](Day5/); G Gilbert
