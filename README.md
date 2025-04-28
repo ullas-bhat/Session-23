@@ -2,15 +2,15 @@
 
 The twenty-third session of the LSSTC DSFP focuses on Statistics and Bayesian Inference. The guest instructors for Session 23 are:
 
-Dr. Sylvia Biscoveanu (CIERA | Northwestern) 
-Dr. Greg Gilbert (Caltech) 
-Dr. Chad Schafer (Carnegie Mellon) 
-Dr. Megan Newsome (University of Texas, Austin) 
+- Dr. Sylvia Biscoveanu (CIERA | Northwestern) 
+- Dr. Greg Gilbert (Caltech) 
+- Dr. Chad Schafer (Carnegie Mellon) 
+- Dr. Megan Newsome (University of Texas, Austin) 
 
 Lectures were also delivered by the DSFP leadership team:
 
-Dr. Adam Miller (CIERA | Northwestern)
-Dr. Bryan Scott (CIERA | Northwestern) 
+- Dr. Adam Miller (CIERA | Northwestern)
+- Dr. Bryan Scott (CIERA | Northwestern) 
 
 # Schedule
 
