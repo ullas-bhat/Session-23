@@ -40,7 +40,7 @@ Sunday, May 18, 2025
 
 "When the Facts Change, I change my mind. What do you do, sir?"
 
-~ John Meynard Keynes (attributed)
+~ John Maynard Keynes (attributed)
 
 -- 
 
