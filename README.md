@@ -94,7 +94,7 @@ Wednesday, May 21, 2025
 
 ## Day 4 — Graphical and Hierarchical Models
 
-"All knowledgge is, in final analysis, history. All sciences are, in the abstract, mathematics. All judgements are, in their rationale, statistics."
+"All knowledge is, in final analysis, history. All sciences are, in the abstract, mathematics. All judgements are, in their rationale, statistics."
 
 ~ C.R. Rao 
 
