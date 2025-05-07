@@ -87,9 +87,9 @@ Tuesday, May 20, 2025
 -- 
 
 Wednesday, May 21, 2025
-* 09:00 AM – 09:45 AM o  [Nested, Umbrella, and Hamiltonian Sampling](Day2/); G Gilbert
+* 09:00 AM – 09:45 AM o  [Hamiltonian, Nested, and Ensemble Sampling](Day3/); G Gilbert
 * 09:45 AM – 10:15 AM o Break 
-* 10:15 AM – 12:00 PM o  [Problem](Day3/)| [Solutions](Day3/): Nested, Umbrella, and Hamiltonian Sampling; G Gilbert
+* 10:15 AM – 12:00 PM o  [Problem](Day3/)| [Solutions](Day3/): Hamiltonian, Nested, and Ensemble Sampling; G Gilbert
 * 12:00 PM – ??:?? PM o BREAK 
 
 ## Day 4 — Graphical and Hierarchical Models
