@@ -23,7 +23,7 @@ Lectures were also delivered by the DSFP leadership team:
 -- 
 
 Three orientation lectures are provided asynchronously, these are:
-- A Brief Introduction to git/GitHub; **B Scott** 
+- A Brief Introduction to git/GitHub; B Scott 
 - Building Visualizations Via Principles of Design; A Miller
 - Goals of the DSFP; A Miller 
 
