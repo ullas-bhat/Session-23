@@ -100,7 +100,7 @@ Wednesday, May 21, 2025
 
 -- 
 
-Thursday, May 23, 2025 
+Thursday, May 22, 2025 
 * 09:00 AM – 10:00 AM o [Probabilistic Graphical Models](Day4/); C Schafer
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  [Problem](Day4/): [Solutions](Day4/); Probabilistic Graphical Models; C Schafer 
@@ -118,7 +118,7 @@ Thursday, May 23, 2025
 
 --  
 
-Friday, May 24, 2025
+Friday, May 23, 2025
 * 9:00 AM - 9:45 AM o [Intractable Posteriors](Day5/); G Gilbert
 * 09:45 AM – 10:45 AM o [Problem](Day5/) [Solution](Day5/); Intractable Posteriors G Gilbert
 * 10:45 AM – 11:00 AM o BREAK 
