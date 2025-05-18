@@ -16,6 +16,8 @@ Lectures were also delivered by the DSFP leadership team:
 
 ## Day 0 – The Beginning | Introduction for the New Cohort
 
+[**LOCATION:** Allen Hall Room 321, Department of Physics and Astronomy, 3941 O'Hara St, Pittsburgh, PA 15206](https://maps.app.goo.gl/hLwA4LBJWo2RjPfi8)**
+
 "Now Look to the future and claim the prize ahead."
 
 ~ Jacqueline M. Hughes-Oliver 
@@ -38,6 +40,8 @@ Sunday, May 18, 2025
 * 03:00 PM - ??? Break
  
 ## Day 1 – Bayes or Bust? | (Probability and Introduction to Bayes)
+
+[**LOCATION:** Barco Law Building Room 109, 3900 Forbes Avenue, Pittsburgh, PA 15260](https://maps.app.goo.gl/sE8775jDYRtaSjPt8)
 
 "When the Facts Change, I change my mind. What do you do, sir?"
 
