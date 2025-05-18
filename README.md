@@ -16,7 +16,7 @@ Lectures were also delivered by the DSFP leadership team:
 
 ## Day 0 – The Beginning | Introduction for the New Cohort
 
-[**LOCATION:** Allen Hall Room 321, Department of Physics and Astronomy, 3941 O'Hara St, Pittsburgh, PA 15206](https://maps.app.goo.gl/hLwA4LBJWo2RjPfi8)**
+[**LOCATION:** Allen Hall Room 321, Department of Physics and Astronomy, 3941 O'Hara St, Pittsburgh, PA 15206](https://maps.app.goo.gl/hLwA4LBJWo2RjPfi8)
 
 "Now Look to the future and claim the prize ahead."
 
