@@ -30,10 +30,11 @@ Three orientation lectures are provided asynchronously, these are:
 Sunday, May 18, 2025 
 
 * 10:30 AM - 11:00 AM Registration & Introductions
-* 11:00 AM - 11:30 AM New Fellow Survey | 
-* 11:30 AM - 12:00 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time
-* 12:00 PM - 1:00 PM LUNCH | Code of Conduct Discussion (TBD) 
-* 01:00 PM - 03:00 PM Overview of Supervised and Unsupervised Machine Learning
+* 11:00 AM - 11:30 AM New Fellow Survey 
+* 11:30 AM - 12:15 PM Code of Conduct Discussion 
+* 12:15 PM - 01:00 PM LUNCH (return with your lunch)
+* 01:00 PM - 1:30 PM  Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time
+* 01:30 PM - 03:00 PM Overview of Supervised and Unsupervised Machine Learning
 * 03:00 PM - ??? Break
  
 ## Day 1 – Bayes or Bust? | (Probability and Introduction to Bayes)
