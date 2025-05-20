@@ -75,7 +75,7 @@ Monday May 19, 2025
 -- 
 
 Tuesday, May 20, 2025
-* 09:00 AM - 10:30 AM o [Problem](Day2/) | [Solution](Day2/) Metroplis Hasting Sampling; A Miller
+* 09:00 AM - 10:30 AM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/MetropolisHastings.ipynb)| [Solution](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/MetropolisHastingsSolutions.ipynb) Metroplis Hasting Sampling; A Miller
 * 10:30 AM - 11:00 AM o Break
 * 11:00 AM - 12:00 PM o [Model Comparison and Misspecification](Day2/); S Biscoveanu 
 * 12:00 PM - 01:30 PM o LUNCH 
