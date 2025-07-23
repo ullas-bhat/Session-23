@@ -36,7 +36,7 @@ Sunday, May 18, 2025
 * 11:30 AM - 12:15 PM Code of Conduct Discussion 
 * 12:15 PM - 01:00 PM LUNCH (return with your lunch)
 * 01:00 PM - 01:15 PM Tips from a Past DSFP Fellow; M Newsome
-* 01:15 PM - 1:45 PM  Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; B Scott
+* 01:15 PM - 1:45 PM  [Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time](https://github.com/LSSTC-DSFP/Session-23/blob/main/orientation/DSFP_Session23_cohort8_rubin_overview.pdf); B Scott
 * 01:30 PM - 03:00 PM [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/orientation/DSFP_Session_23_ML_Orientation_problem_version.ipynb) Overview of Supervised and Unsupervised Machine Learning; B Scott
 * 03:00 PM - ??? Break
  
